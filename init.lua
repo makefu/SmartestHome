@@ -1,5 +1,5 @@
 wifi.setmode(wifi.STATION)
-wifi.sta.config("shack","welcome2shack")
+wifi.sta.config("shack","derp")
 buf=string.char( 255,0, 0)
 
 default_buf = buf
