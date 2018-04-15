@@ -10,3 +10,6 @@ http://shackspace.de/wiki/doku.php?id=project:smarthome
   - `bottom.html` : second part of the website
   - `tail.html` : last part of the website
   - `web.html` : local complete website for testing
+
+# License
+MIT
